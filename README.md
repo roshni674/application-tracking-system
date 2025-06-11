@@ -91,7 +91,4 @@ The task is to design an Applicant Tracking System (ATS) that manages job postin
 **Database:** MongoDB
 
 
-## Authors
-
-- [@nikhilmalakar](https://github.com/nikhilmalakar)
 
